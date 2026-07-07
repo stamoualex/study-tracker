@@ -1,6 +1,7 @@
 import json
 import os
 
+
 def load_assignments():
     previous_data = os.path.exists("assignments.json")
     if previous_data:  
