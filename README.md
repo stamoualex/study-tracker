@@ -18,7 +18,7 @@ The app stores your assignment information in a JSON file, so your data is prese
 
 1. Make sure Python is installed (python.org)
 
-2. Download `study_tracker.py` from this repo
+2. Download `assignment_tracker.py` from this repo
 
 3. Open a terminal in the folder where the file is saved
 
